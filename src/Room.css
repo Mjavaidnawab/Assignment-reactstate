@@ -1,0 +1,15 @@
+.room{
+
+    height: 100vh;
+}
+.lit {
+    background-color: white;
+ 
+    color:gray;
+
+}
+.dark {
+    background-color: black;
+
+    color:cornflowerblue;
+}
